@@ -9,7 +9,7 @@ This is a static app which means that no communication is done with the server o
 
 ## How to use
 
-You can use Aparcalia2 (without maps) here: https://github.com/yomboprime
+You can use Aparcalia2 (without maps) here: https://yomboprime.github.com/Aparcalia2
 
 Common panning and zoom is supported in any browser. You can go fullscreen with the button at the top right corner.
 

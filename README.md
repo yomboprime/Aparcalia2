@@ -1,4 +1,4 @@
-# Aparcalia2
+# Aparcalia 2
 A maps HTML5 static application to remember where did you park your vehicle.
 
 ## Description

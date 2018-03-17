@@ -137,8 +137,6 @@ function createMap( htmlElement, minLat, maxLat, minLon, maxLon, initialZoom ) {
         
     }
 
-    setUserPos( [ initialLat, initialLon ] );
-    
     return map;
 }
 
